@@ -8,46 +8,44 @@
   <title>Frontend Mentor | QR code component</title>
 
   <style>
-    /*.attribution { font-size: 11px; text-align: center; }*/
-    /*.attribution a { color: hsl(228, 45%, 44%); }*/
-
     body {
       background-color: #d6e2f0;
       overflow: auto;
       margin: 0;
     }
 
-    .flex-container{
+    .flex-container {
       display: flex;
       justify-content: center;
       align-items: center;
       height: 100vh;
     }
 
-    .flex-container div {
-      background-color: cornflowerblue;
-      width: 25%;
-      height: 80%;
+    .container {
+      background-color: white;
+      width: 45vh;
+      height: 65vh;
+      border-radius: 5%;
+    }
 
+    .content {
+      display: block;
+      margin: 5% auto;
+      width: auto;
+      height: 40vh;
+      border-radius: 4%;
     }
 
   </style>
 </head>
-<body>
 
+<body>
   <div class="flex-container">
-    <div>
+    <div class="container">
+      <img src="images/image-qr-code.png" class="content" alt="QR Code">
 
     </div>
-    
   </div>
-<!--  Improve your front-end skills by building projects-->
-
-<!--  Scan the QR code to visit Frontend Mentor and take your coding skills to the next level-->
-  
-<!--  <div class="attribution">-->
-<!--    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. -->
-<!--    Coded by <a href="#">Mika</a>.-->
-<!--  </div>-->
 </body>
+
 </html>
