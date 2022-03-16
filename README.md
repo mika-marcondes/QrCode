@@ -5,7 +5,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-    - [Screenshot](#screenshot)
     - [Links](#links)
 - [My process](#my-process)
     - [Built with](#built-with)
@@ -13,18 +12,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-##👀 Overview
-
-### Screenshot
-
-![](images\webscreenshot.jpg)
+##Overview
 
 ### Links
 
 - Solution URL: [github.com/mika-marcondes/QrCode](https://github.com/mika-marcondes/QrCode)
 - Live Site URL: [mika-marcondes.github.io/QrCode/](https://mika-marcondes.github.io/QrCode/)
 
-##🔎 My process
+##My process
 
 ### Built with
 
