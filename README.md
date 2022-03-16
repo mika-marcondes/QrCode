@@ -12,14 +12,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-##Overview
+## Overview
 
 ### Links
 
 - Solution URL: [github.com/mika-marcondes/QrCode](https://github.com/mika-marcondes/QrCode)
 - Live Site URL: [mika-marcondes.github.io/QrCode/](https://mika-marcondes.github.io/QrCode/)
 
-##My process
+## My process
 
 ### Built with
 
